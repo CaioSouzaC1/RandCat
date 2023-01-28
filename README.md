@@ -1,0 +1,2 @@
+# RandCat
+Discord Bot
